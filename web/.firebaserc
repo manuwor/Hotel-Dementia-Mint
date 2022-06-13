@@ -1,0 +1,15 @@
+{
+  "projects": {},
+  "targets": {
+    "hotel-dementia": {
+      "hosting": {
+        "hotel-dementia-test": [
+          "hotel-dementia-test"
+        ],
+        "mint-hotel-dementia": [
+          "mint-hotel-dementia"
+        ]
+      }
+    }
+  }
+}
