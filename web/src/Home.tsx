@@ -648,9 +648,6 @@ const Home = (props: HomeProps) => {
                             <ConnectButton>Connect Wallet</ConnectButton>}
                     </Wallet>
                 </WalletContainer>
-                <br />
-
-``
                 <MintContainer>
                     <DesContainer>
                         <NFT elevation={5}>
