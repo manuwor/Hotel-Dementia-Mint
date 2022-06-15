@@ -105,7 +105,7 @@ const App = () => {
         <div className="d-flex">
 
            
-            <ThemeProvider theme={theme}>
+            {/* <ThemeProvider theme={theme}>
         <ConnectionProvider endpoint={endpoint}>
           <WalletProvider wallets={wallets} autoConnect={true}>
             <WalletModalProvider>
@@ -119,7 +119,8 @@ const App = () => {
             </WalletModalProvider>
           </WalletProvider>
         </ConnectionProvider>
-      </ThemeProvider>
+      </ThemeProvider> */}
+      <LandingComponent></LandingComponent>
         </div>
     </>
       
